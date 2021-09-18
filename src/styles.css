@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.main-content {
+  display: flex;
+}
+.side-bar {
+  width: 20%;
+
+  border-right: 1px solid gray;
+}
+.result-section {
+  width: 80%;
+}
